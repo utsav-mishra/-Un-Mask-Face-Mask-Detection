@@ -6,6 +6,10 @@ The face mask detector didn't use any morphed masked images dataset. The model i
 
 This system can therefore be used in real-time applications which require face-mask detection for safety purposes due to the outbreak of Covid-19. This project can be integrated with embedded systems for application in airports, railway stations, offices, schools, and public places to ensure that public safety guidelines are followed. </h5>
 
+<h3>Training and Accuracy plot </h3>
+
+![image](https://user-images.githubusercontent.com/54333191/132133174-245a04e3-0226-4ff1-9d9c-e52f1a65e925.png)
+
 <h3>Requirements</H3>
 <h5>
 <li>Tensorflow 1.15.2 </li>
